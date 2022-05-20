@@ -1,0 +1,3 @@
+Question 20 :-
+ Write a program to copy all the element of one stack into another stack,
+ using queue and print both the stack.

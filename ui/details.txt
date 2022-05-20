@@ -1,0 +1,5 @@
+Himanshu Gupta::gupta::him.gupta_cs19@gla.ac.in::Python::1000::
+Karan Gupta::gupta::kar.gupta_cs19@gla.ac.in::Python::1018::
+Samarth Gupta::gupta::samarth.gupta_cs19@gla.ac.in::Python::1019::
+Anurag Sharma::123::anurag.sharma_cs19@gla.ac.in::Java::1020::
+Harsh::123::harsh@gla.ac.in::Java::1004::
